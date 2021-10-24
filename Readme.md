@@ -47,4 +47,4 @@ Data yang tercatat pada CSV ini merupakan record karyawan pada sebuah perusahaan
 - is_promoted: (Target/Karyawan) yg akan direkomendasikan untuk promosi
 
 ## Modelling
-Model yang digunakan adalah KNN, Logistic Regression dan Decision Tree, model akan memprediksi karyawan mana yang kemungkinan akan di promosikian. Ketiga model akan dibandingkan dan menggunakan model dengan nilai F1 score yang tinggi.
+Model yang digunakan adalah KNN, Logistic Regression dan Random Forest, model akan memprediksi karyawan mana yang kemungkinan akan di promosikian. Ketiga model akan dibandingkan dan menggunakan model dengan nilai F1 score yang tinggi.
